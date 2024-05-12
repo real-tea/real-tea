@@ -1,1 +1,3 @@
-<img src="https://media.giphy.com/media/xyRolGQHJDEli/giphy.gif" alt="A funny cat GIF" />
+<p align="center">
+<img src="https://media.giphy.com/media/lcySndwSDLxC4eOU86/giphy.gif" width="100%" height = "400" />
+</p>
